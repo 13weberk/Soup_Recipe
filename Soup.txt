@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> This is my favorite <title> Lentil soup. </title> It's very simple, and I've cobbled it together by trying some other recipes, and then well, leaving stuff out. It is very, very simple, but it is also one of my favorite foods ever. Here are the ingredients:
+</h1> </head>Ingredients: 
+<body>
+<li>1 Carrot, chopped</li>
+
+<li>1 Onion, chopped</li>
+
+<li>1 Stalk celery, chopped</li>
+
+<li>1/2 pound of green lentils</li>
+
+<li>1 28 oz can of whole tomatoes</li>
+
+<li>28 oz cold water</li>
+
+<li>2 bay leaves</li>
+
+<li>tiny pinch of cumin (maybe 1/8 of a tsp)</li>
+
+<li>tiny pinch of ground thyme (again, like, 1/8 of a tsp)</li>
+
+<li>1 tbsp of vinegar</li>
+<ul>
+<li> <a href= "http://www.foodnetwork.com/recipes/alton-brown/lentil-soup-recipe.html"> The Food Network</a>
+</li>
+Instructions:
+<ol>
+<li>Simple to do. Sweat the veggies over low heat with a little kosher salt.</li> <li>When the onion is translucent, add lentils and stir.</li> <li>Cook them with the veggies for a couple minutes.</li> <li>Add tomatoes, water, cumin, and bay leaves. </li> <li> Bring to a boil. </li> <li> Simmer covered for 1 hour to 1 1/2 hour. </li> <li> Add the vinegar and thyme, cook for another minute or two. </li> <li>Add salt to taste.</li>
+</ol>
+I like my lentil soup this way, without too many herbs or any chicken broth. Recipes that call for those things are nice enough, but I like the brightness and mild acidity the soup has this way. I think it complements the earthy flavor of the lentils and the mirepoix.
+
+<p>Important reminders and tips:
+- Wash your lentils. And I did find a stone once, so keep an eye out.
+
+- I like to use red wine vinegar in this, but I have used apple cider vinegar in a pinch, and I'm sure other vinegars could be fun. I mean, not white distilled of course. That stuff is for cleaning the coffee pot and disinfecting the cutting board, IMHO.
+
+- Salt is key. I just made a batch of this and had to adjust the salt a couple times. The flavor is subtle so you need to use enough to bring it out, but if you use to much you'll overpower it. When I eat alone, I add salt in the bowl until it tastes about right. I think Kosher salt may do a noticeably better job here. Thanks to Carlo who got me paying more attention to my salt after a conversation we had awhile ago. </p>
+<img src= "http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=tAo8FXJUUAGrSM&tbnid=iVSSj7rcn3g_fM:&ved=0CAcQjRw&url=http%3A%2F%2Fspoonwithme.com%2F2011%2F01%2F30%2Fmoroccan-lentil-soup%2F&ei=suYgVN64DrHbsAT_oYGwCA&bvm=bv.75775273,d.aWw&psig=AFQjCNHYLTSW9Ve7FuODd3z2cMdVGD8rDQ&ust=1411528751600214" alt="">
+</body>
+</html>
